@@ -11,6 +11,6 @@ deployment "simple" {
 deployment "complex" {
   inputs = {
     prefix           = "complex"
-    instances        = 18
+    instances        = 20
   }
 }
